@@ -1,7 +1,7 @@
 <template>
     <div id="align">
         <b-jumbotron id="fundo">
-            <h1 class="text-uppercase"> << Frontend >> </h1>
+            <h1 class="text-uppercase"> << Frontend 1.0 >> </h1>
             <img src="logo.png">
             <!-- <p>made by <a href="https://github.com/Rdemora2">Roberto Moraes</a></p> -->
         </b-jumbotron>
